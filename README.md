@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moacirtorres
 - 👀 I’m interested in FullStack Development
-- 🌱 I’m currently learning VueJS and NodeJS
+- 🌱 I’m currently learning VueJS, Node, MongoDB and Golang!
 
 <!---
 moacirtorres/moacirtorres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
