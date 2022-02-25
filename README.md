@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @moacirtorres
-- 👀 I’m interested in FullStack Development
-- 🌱 I’m currently learning VueJS, Node, MongoDB and Golang!
+## 💜 Olá!</strong>
+
+> Trabalho como desenvolvedor fullstack com as tecnologas NodeJS, VueJS, MongoDB, Docker, AWS, Lambda, TDD, etc.
+
+🔭 Atualmente aprendendo Go e me especialiazando em NodeJS!
+
+💬 Contato: moacirtorress@gmail.com.
+
+----
 
 <span src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <image src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
