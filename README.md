@@ -2,6 +2,8 @@
 - 👀 I’m interested in FullStack Development
 - 🌱 I’m currently learning VueJS, Node, MongoDB and Golang!
 
+<image src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 
 ![Minhas estatísticas!](https://github-readme-stats.vercel.app/api?username=moacirtorres&show_icons=true&theme=radical)
 <!---
