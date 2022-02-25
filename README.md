@@ -1,4 +1,4 @@
-## 💜 Olá!</strong>
+## 📖 Olá!</strong>
 
 > Trabalho como desenvolvedor fullstack com as tecnologas NodeJS, VueJS, MongoDB, Docker, AWS, Lambda, TDD, etc.
 
