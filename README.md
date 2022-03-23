@@ -1,6 +1,6 @@
 ## 📖 Olá!</strong>
 
-> Trabalho como desenvolvedor fullstack com as tecnologas NodeJS, VueJS, MongoDB, Docker, AWS, Lambda, TDD, etc.
+> Trabalho como desenvolvedor fullstack com as tecnologias NodeJS, VueJS, MongoDB, Docker, AWS, Lambda, TDD, etc.
 
 🔭 Atualmente aprendendo Go e me especialiazando em NodeJS!
 
