@@ -1,11 +1,5 @@
 ## 📖 Olá!</strong>
 
-> Trabalho como desenvolvedor fullstack com as tecnologias NodeJS, VueJS, MongoDB, Docker, AWS, Lambda, TDD, etc.
-
-🔭 Atualmente aprendendo Go e me especialiazando em NodeJS!
-
-💬 Contato: moacirtorress@gmail.com.
-
 ----
 
 <span src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
